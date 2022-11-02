@@ -1,0 +1,36 @@
+body{
+    background: rgba(92, 50, 19, 0.788);
+    font-family: Georgia;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffff;
+  }
+li {
+    float: left;
+    text-indent: 50px;
+    text-align: center;
+  }
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+    border-right-style: solid;
+    border-right: thin, 2px;
+    color:rgb(139, 61, 0);
+  }
+
+li a:hover {
+    background-color: #111;
+    color:brown;
+  }
+.Rolunk{
+    text-align:center;
+    color: white;
+    font-size: 31px;
+}
