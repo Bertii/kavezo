@@ -1,6 +1,7 @@
 body{
     background: rgba(92, 50, 19, 0.788);
     font-family: Georgia;
+    color: #ffff;
 }
 ul {
     list-style-type: none;
@@ -29,8 +30,20 @@ li a:hover {
     background-color: #111;
     color:brown;
   }
-.Rolunk{
-    text-align:center;
-    color: white;
-    font-size: 31px;
-}
+
+  
+  .image {
+    flex-basis: 40%
+
+  }
+  
+  .text {
+    font-size: 20px;
+    padding-left: 20px;
+  }
+  hr{
+      margin-top: 150px;
+      color: white;
+      height: 2px;
+      background-color:white;
+  }
