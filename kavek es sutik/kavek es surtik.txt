@@ -1,0 +1,57 @@
+1:
+Nev: Fehér csokis shaken espresso
+Tulajdonságok: -gluténmentes
+Mennyiség: 500 ml
+Ár: 1998 Ft (Áfa)
+
+
+2:
+Nev: Pumpkin Spice Latte
+Tulajdonsagok: nincs
+Mennyiség: 500 ml
+Ár: 1499 Ft (Áfa)
+
+
+3:
+Nev: Hagyományos espresso
+Tulajdonságok: -gluténmentes
+	       -laktózmentes
+Mennyiség: 30 ml
+Ár: 199 Ft (Áfa)
+
+
+4:
+Nev: Latte Macciato
+Tulajdonságok: -gluténmentes
+Mennyiség: 200 ml
+Ár: 949 Ft (Áfa)
+
+
+5:
+Nev: Forró csoki
+Tulajdonságok: -gluténmentes
+Mennyiség: 200 ml
+Ár: 899 Ft (Áfa)
+
+
+6:
+Nev: Erdei gyümölcs tea
+Tulajdonságok: -gluténmentes
+	       -laktózmentes
+Mennyiség: 200 ml
+Ár: 549 Ft (Áfa)
+
+
+7:
+Nev: Jeges fehércsokis mokka
+Tulajdonságok: nincs
+Mennyiség: 500 ml
+Ár: 1499 Ft (Áfa)
+
+
+8:
+Nev: Epres jeges tea
+Tulajdonságok: -gluténmentes
+	       -laktózmentes
+Mennyiség: 500 ml
+Ár: 1499 Ft (Áfa)
